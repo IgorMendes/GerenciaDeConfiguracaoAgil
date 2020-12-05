@@ -1,6 +1,15 @@
-# GerenciaDeConfiguracaoAgil
+﻿# GerenciaDeConfiguracaoAgil
 
-#Atividades da Disciplina
+## Engenharia de Software 2020 - Unipe
 
-##Equipe: Igor Mendes e Daniel Menezes
+**Equipe**
+
+Igor Mendes
+Daniel Menezes
+
+
+
+
+
+
  
